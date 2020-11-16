@@ -27,8 +27,8 @@ Estimate of time needed to complete : one hour and half
 
 start time: 3:35 PM
 
-finish time:  PM 
+finish time: 4:20 PM 
 
-Actual time needed to complete: 
+Actual time needed to complete: 45 minutes. 
 
 
