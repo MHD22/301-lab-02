@@ -9,7 +9,7 @@ function Image(url,title,description,keyword,horns){
   imagesArray.push(this);
 }
 
-$.ajax('data/page-1.json')
+$.ajax('301-lab-02/data/page-1.json')
   .then(data=>{
     // console.log(data);
     data.forEach((val)=>{
