@@ -16,3 +16,6 @@ section p {
     overflow-y: auto;
 }
 
+select {
+    margin: 5px;
+}
