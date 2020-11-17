@@ -4,11 +4,15 @@
 body{
     
     margin: auto;
-    padding: 10px;
+   
+    min-height: 100vh;
 }
 h1,h2{
     font-family: 'Xanh Mono', monospace;
 }
 *{
     box-sizing: border-box;
+}
+main{
+    min-height: 80vh;
 }
